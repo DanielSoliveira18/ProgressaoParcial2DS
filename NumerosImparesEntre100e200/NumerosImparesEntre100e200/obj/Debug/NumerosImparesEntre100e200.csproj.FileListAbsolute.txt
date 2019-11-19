@@ -1,0 +1,6 @@
+c:\users\etecja\documents\visual studio 2012\Projects\NumerosImparesEntre100e200\NumerosImparesEntre100e200\bin\Debug\NumerosImparesEntre100e200.exe.config
+c:\users\etecja\documents\visual studio 2012\Projects\NumerosImparesEntre100e200\NumerosImparesEntre100e200\bin\Debug\NumerosImparesEntre100e200.exe
+c:\users\etecja\documents\visual studio 2012\Projects\NumerosImparesEntre100e200\NumerosImparesEntre100e200\bin\Debug\NumerosImparesEntre100e200.pdb
+c:\users\etecja\documents\visual studio 2012\Projects\NumerosImparesEntre100e200\NumerosImparesEntre100e200\obj\Debug\NumerosImparesEntre100e200.csprojResolveAssemblyReference.cache
+c:\users\etecja\documents\visual studio 2012\Projects\NumerosImparesEntre100e200\NumerosImparesEntre100e200\obj\Debug\NumerosImparesEntre100e200.exe
+c:\users\etecja\documents\visual studio 2012\Projects\NumerosImparesEntre100e200\NumerosImparesEntre100e200\obj\Debug\NumerosImparesEntre100e200.pdb

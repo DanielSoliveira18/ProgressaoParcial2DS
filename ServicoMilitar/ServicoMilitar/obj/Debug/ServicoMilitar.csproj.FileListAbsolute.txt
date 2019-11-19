@@ -1,0 +1,5 @@
+c:\users\labinfo\documents\visual studio 2012\Projects\ServicoMilitar\ServicoMilitar\bin\Debug\ServicoMilitar.exe.config
+c:\users\labinfo\documents\visual studio 2012\Projects\ServicoMilitar\ServicoMilitar\bin\Debug\ServicoMilitar.exe
+c:\users\labinfo\documents\visual studio 2012\Projects\ServicoMilitar\ServicoMilitar\bin\Debug\ServicoMilitar.pdb
+c:\users\labinfo\documents\visual studio 2012\Projects\ServicoMilitar\ServicoMilitar\obj\Debug\ServicoMilitar.exe
+c:\users\labinfo\documents\visual studio 2012\Projects\ServicoMilitar\ServicoMilitar\obj\Debug\ServicoMilitar.pdb

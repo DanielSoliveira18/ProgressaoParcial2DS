@@ -1,0 +1,1 @@
+c:\users\etecja\documents\visual studio 2012\Projects\NumerosPares\NumerosPares\bin\Debug\NumerosPares.exe.config
